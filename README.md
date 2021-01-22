@@ -1,2 +1,3 @@
 # RSA_Crypter-Decrypter_PYversion
-RSA.py es una version pensada para windows, eventualmente se agregara una para linux 
+RSA.py es una version pensada para windows, con pocas modificaciones funciona bien en linux.
+El codigo esta documentado, sientete libre de usarlo/modificarlo :')
